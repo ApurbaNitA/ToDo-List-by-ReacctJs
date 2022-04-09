@@ -3,8 +3,8 @@ import React from 'react'
 const About = () => {
   return (
     <div>
-      This is an about MyComponents
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat itaque maxime qui optio officia id expedita, ex doloremque cumque ab, commodi soluta harum ratione temporibus dolorem accusantium explicabo obcaecati? Officia quisquam dolorum, similique sunt eveniet expedita minus non adipisci enim pariatur perferendis. Maxime dolorem odio quam, omnis sequi saepe cumque.</p>
+      <h3>About this page</h3>
+      <p>In this ToDo list we can make a list of tasks that are needed to be completed or the things that we want to do. This page is developed by Apurba Podder using ReactJs Framework. Thank you for visiting this page.</p>
     </div>
   )
 }
